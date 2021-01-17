@@ -1,0 +1,22 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ACTION
+http://a1.gokakka.club:8880/testzyx030/123456789/28958?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports ACTION FHD
+http://a1.gokakka.club:8880/testzyx030/123456789/28740?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Action HD
+http://a1.gokakka.club:8880/testzyx030/123456789/2880?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Arena HD
+http://a1.gokakka.club:8880/testzyx030/123456789/2902?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Arena HD UK
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7926?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports F1
+http://a1.gokakka.club:8880/testzyx030/123456789/2876?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Football HD
+http://a1.gokakka.club:8880/testzyx030/123456789/2870?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Golf
+http://a1.gokakka.club:8880/testzyx030/123456789/2878?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Mix
+http://a1.gokakka.club:8880/testzyx030/123456789/2882?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Premier League SD
+http://a1.gokakka.club:8880/testzyx030/123456789/28942?checkedby:hlscat.com
